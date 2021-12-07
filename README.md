@@ -6,7 +6,7 @@ combine 연습
 
 
 
-![simulator_screenshot_10809855-5B45-4724-9DA5-FDD6930DE99C](https://user-images.githubusercontent.com/5820255/144981101-ec870ba7-8913-43ea-8d2d-7aa25c6da5f4.png
+![simulator_screenshot_10809855-5B45-4724-9DA5-FDD6930DE99C](https://user-images.githubusercontent.com/5820255/144981101-ec870ba7-8913-43ea-8d2d-7aa25c6da5f4.png)
 
 ![simulator_screenshot_2F7BDCA0-74F4-43C5-88F1-A5E6C100F033](https://user-images.githubusercontent.com/5820255/144981191-a6c4c02d-4d3e-4c54-b003-a9090cdee8c0.png)
 )
